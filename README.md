@@ -1,0 +1,1 @@
+This code is the Bayesian co-localization analysis content in the article "Colonic Lactobacillus acidophilus protects against Clostridium difficile infection by altering host gene expression: a Mendelian randomization and animal model study".
